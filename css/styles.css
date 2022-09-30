@@ -238,8 +238,8 @@ ul {
     border: none;
     padding: 10px 32px;
     letter-spacing: 0.06em;
-    
-   }
+    font-family: inherit;
+ }
 
 .hero-button:hover,
 .hero-button:focus { 
@@ -261,6 +261,7 @@ color: var(--primary-white-color);
     letter-spacing: 0.03em;
     color:var(--primary-text-color);
     background-color: var(--primary-button-background);
+    font-family: inherit;
     
     
     }
